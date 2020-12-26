@@ -2,6 +2,10 @@ class Todos {
 
     private static void printMessage(String message) {
         System.out.println(message);
+
+
+
+
     }
 
     private static String getWhat(String[] args) {
